@@ -204,7 +204,7 @@ To build the project in different configurations:
 
 This project was developed by:
 
-- **Supun Wijesooriya** - Lead Developer
+- **Supun Wijesooriya** - Developer
 
 ## Contributing
 
