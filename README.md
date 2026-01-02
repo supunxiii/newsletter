@@ -92,7 +92,7 @@ To run the Newsletter Android application locally, follow these steps:
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/newsletter.git
+   git clone https://github.com/supunxiii/newsletter.git
    ```
 
 3. Navigate to the project directory:
